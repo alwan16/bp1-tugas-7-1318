@@ -1,4 +1,4 @@
-package polymorphisme
+package inheritance
 
 class penunjang : pasien(){
     var jenis_penunjang: String = ""

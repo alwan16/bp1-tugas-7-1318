@@ -1,5 +1,4 @@
-package polymorphisme
-
+package inheritance
 
 open class karyawan : orang() {
     var nip: String = ""

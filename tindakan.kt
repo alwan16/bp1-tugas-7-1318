@@ -1,7 +1,7 @@
-package polymorphisme
+package inheritance
 
 class tindakan : dokter(){
-    //var nama: String = ""
+
     var jenis_tindakan: String = ""
 
     fun diberi(){

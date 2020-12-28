@@ -1,4 +1,4 @@
-package polymorphisme
+package inheritance
 
 fun main(){
 

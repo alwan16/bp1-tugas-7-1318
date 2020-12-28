@@ -1,4 +1,4 @@
-package polymorphisme
+package inheritance
 
 class obat : pasien(){
 

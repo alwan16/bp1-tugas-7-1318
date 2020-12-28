@@ -1,5 +1,4 @@
-package polymorphisme
-
+package inheritance
 
 class asisten_dokter : dokter(){
 

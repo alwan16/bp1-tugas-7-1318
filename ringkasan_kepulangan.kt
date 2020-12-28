@@ -1,6 +1,6 @@
-package polymorphisme
+package inheritance
 
-class ringkasan_kepulangan : pasien(){
+class ringkasan_kepulangan {
     var tgl_pulang: String = ""
     var keadaan_pulang: String = ""
 

@@ -1,5 +1,4 @@
-package polymorphisme
-
+package inheritance
 
 class mahasiswa : orang() {
 
@@ -9,9 +8,5 @@ class mahasiswa : orang() {
 
     fun belajar(){
         println("Saya belajar di prodi $prodi")
-    }
-
-    override fun perkenalan(){
-        println("Kenalin dong, Aku $nama dari $alamat")
     }
 }

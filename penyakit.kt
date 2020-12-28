@@ -1,7 +1,7 @@
-package polymorphisme
+package inheritance
 
-class penyakit :pasien(){
-
+class penyakit {
+    var nama: String = ""
     var tgl_periksa: String = ""
 
     fun diderita(){
